@@ -1,9 +1,10 @@
 # AberrationAddon
-
+![Ark Aberration](https://github.com/Therideru/ARK-Aberrationaddon/assets/6213026/c1891d0e-6fda-4d69-80ef-c38d9e14a4ce)
 ## Description
 The "AberrationAddon" mod for ARK: Survival Evolved brings the thrilling experience of ARK Aberration to ASA (ARK Survival Arena). This mod includes a variety of unique dinosaurs and structures originally found in the Aberration expansion. Currently, the Rockdrake is experiencing some issues, and we are actively working to resolve this in future updates.
 
 ## Features
+
 - **Basilisk**: Encounter the fearsome Basilisk, adding a challenging and rewarding experience to your gameplay.
 - **Rollrat**: Discover the Rollrat and enjoy its unique digging abilities to explore the terrain in new ways.
 - **Karkinos**: The formidable Karkinos adds a new level of strategy with its powerful pincers and versatile movement.
