@@ -18,7 +18,9 @@ The "AberrationAddon" mod for ARK: Survival Evolved brings the thrilling experie
 ## Changelog
 ### Version 1.0
 - Initial release including Basilisk, Rollrat, Karkinos, Reaper Queen, Lantern Dinos, and Aberration Structures.
-- Known issue: Rockdrake functionality is currently bugged.
+- Known issue:
+    - Rockdrake functionality is currently bugged.
+    - Breeding doesn't work, will be fixed asap. 
 
 ## Contributing
 We welcome contributions and feedback to improve the "AberrationAddon" mod. If you have suggestions or encounter any issues, please open an issue on the GitHub repository. For code contributions or feature enhancements, feel free to fork the repository and submit a pull request.
