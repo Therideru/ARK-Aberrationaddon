@@ -22,6 +22,62 @@ The "AberrationAddon" mod for ARK: Survival Evolved brings the thrilling experie
     - Rockdrake functionality is currently bugged.
     - Breeding doesn't work, will be fixed asap. (Rollrat works for breeding)
 
+## Spawn Codes
+Basilisk: 
+  (Wild)
+- cheat spawndino "/Script/Engine.Blueprint'/AberrationAddon/Dinos/Basilisk_Character_BP_ABA.Basilisk_Character_BP_ABA'" 500 0 0 150
+- cheat summon Basilisk_Character_BP_ABA
+  (Tamed)
+- cheat gmsummon Basilisk_Character_BP_ABA 150
+Reaper Queen:
+  (Wild)
+- cheat spawndino "/Script/Engine.Blueprint'/AberrationAddon/Dinos/Xenomorph_Character_BP_ABA.Xenomorph_Character_BP_ABA'" 500 0 0 150
+- cheat summon Xenomorph_Character_BP_ABA
+  (Tamed)
+- cheat gmsummon Xenomorph_Character_BP_ABA 150
+LanternBird:
+  (Wild)
+- cheat spawndino "/Script/Engine.Blueprint'/AberrationAddon/Dinos/LanternBird/LanternBird_Character_BP_ABA.LanternBird_Character_BP_ABA'" 500 0 0 150
+- cheat summon LanternBird_Character_BP_ABA
+  (Tamed)
+- cheat gmsummon LanternBird_Character_BP_ABA 150
+Lanternlizard:
+  (Wild)
+- cheat spawndino "/Script/Engine.Blueprint'/AberrationAddon/Dinos/LanternLizard/LanternLizard_Character_BP_ABA.LanternLizard_Character_BP_ABA'" 500 0 0 150
+- cheat summon LanternLizard_Character_BP_ABA
+  (Tamed)
+- cheat gmsummon LanternLizard_Character_BP_ABA 150
+LanternGoat:
+  (Wild)
+- cheat spawndino "/Script/Engine.Blueprint'/AberrationAddon/Dinos/LanternGoat/LanternGoat_Character_BP_ABA.LanternGoat_Character_BP_ABA'" 500 0 0 150
+- cheat summon LanternGoat_Character_BP_ABA
+  (Tamed)
+- cheat gmsummon LanternGoat_Character_BP_ABA 150
+LanternPug:
+  (Wild)
+- cheat spawndino "/Script/Engine.Blueprint'/AberrationAddon/Dinos/LanternPug/LanternPug_Character_BP_ABA.LanternPug_Character_BP_ABA'" 500 0 0 150
+- cheat summon LanternPug_Character_BP_ABA
+  (Tamed)
+- cheat gmsummon LanternPug_Character_BP_ABA 150
+Karkino:
+  (Wild)
+- cheat spawndino "/Script/Engine.Blueprint'/AberrationAddon/Dinos/Crab_Character_BP_ABA.Crab_Character_BP_ABA'" 500 0 0 150
+- cheat summon Crab_Character_BP_ABA
+  (Tamed)
+- cheat gmsummon Crab_Character_BP_ABA 150
+CaveWolf:
+  (Wild)
+- cheat spawndino "/Script/Engine.Blueprint'/AberrationAddon/Dinos/CaveWolf_Character_BP_ABA.CaveWolf_Character_BP_ABA'" 500 0 0 150
+- cheat summon CaveWolf_Character_BP_ABA
+  (Tamed)
+- cheat gmsummon CaveWolf_Character_BP_ABA 150
+RoleRat:
+  (Wild)
+- cheat spawndino "/Script/Engine.Blueprint'/AberrationAddon/Dinos/MoleRat_Character_BP_ABA.MoleRat_Character_BP_ABA'" 500 0 0 150
+- cheat summon MoleRat_Character_BP_ABA
+  (Tamed)
+- cheat gmsummon MoleRat_Character_BP_ABA 150 
+
 ## Contributing
 We welcome contributions and feedback to improve the "AberrationAddon" mod. If you have suggestions or encounter any issues, please open an issue on the GitHub repository. For code contributions or feature enhancements, feel free to fork the repository and submit a pull request.
 
