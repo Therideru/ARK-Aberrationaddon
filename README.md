@@ -31,10 +31,10 @@ The "AberrationAddon" mod for ARK: Survival Evolved brings the thrilling experie
 - cheat gmsummon Basilisk_Character_BP_ABA 150
 ### Reaper Queen:
 #### (Wild)
-- cheat spawndino "/Script/Engine.Blueprint'/AberrationAddon/Dinos/Xenomorph_Character_BP_ABA.Xenomorph_Character_BP_ABA'" 500 0 0 150
-- cheat summon Xenomorph_Character_BP_ABA
+- cheat spawndino "/Script/Engine.Blueprint'/AberrationAddon/Dinos/Xenomorph_Character_BP_Female_ABA.Xenomorph_Character_BP_Female_ABA'" 500 0 0 150
+- cheat summon Xenomorph_Character_BP_Female_ABA
 #### (Tamed)
-- cheat gmsummon Xenomorph_Character_BP_ABA 150
+- cheat gmsummon Xenomorph_Character_BP_Female_ABA 150
 ### LanternBird:
 #### (Wild)
 - cheat spawndino "/Script/Engine.Blueprint'/AberrationAddon/Dinos/LanternBird/LanternBird_Character_BP_ABA.LanternBird_Character_BP_ABA'" 500 0 0 150
